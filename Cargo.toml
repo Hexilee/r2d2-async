@@ -1,12 +1,12 @@
 [package]
-name = "r2d2"
-version = "0.8.3"
-authors = ["Steven Fackler <sfackler@gmail.com>"]
-license = "MIT/Apache-2.0"
-description = "A generic connection pool"
-repository = "https://github.com/sfackler/r2d2"
+name = "r2d2-async"
+version = "0.0.1"
+authors = ["Hexilee <hexileee@gmail.com>"]
+license = "MIT"
+description = "A generic async connection pool"
+repository = "https://github.com/Hexilee/r2d2-async"
 readme = "README.md"
-keywords = ["database", "pool"]
+keywords = ["database", "pool", "async"]
 
 [dependencies]
 antidote = "1.0"
